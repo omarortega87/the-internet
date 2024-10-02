@@ -82,3 +82,11 @@ Load the page you want to see in your browser:
 ## See Also
 
 - A Docker Image of the-internet ([link](https://hub.docker.com/r/gprestes/the-internet/))
+
+## Building Image 
+
+
+## Docker run image 
+`docker run -d -p 7080:5000 gprestes/the-internet`
+
+
